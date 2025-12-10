@@ -1,4 +1,5 @@
-# <b>DOC</b> | palindrome_app <img src="/assets/icon/icon.png"/>
+# <b>DOC</b> | palindrome_app <img src="assets/icon/icon.png" width="5"/>
+
 
 <table>
   <tbody>
